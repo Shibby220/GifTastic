@@ -1,0 +1,11 @@
+.button {
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+}
+
+body {
+    background: url("https://wallpapercave.com/wp/kvDvzAF.jpg") no-repeat center fixed;
+    background-size: cover;
+    color: yellow;
+}
