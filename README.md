@@ -7,3 +7,5 @@ If you type the name of an animal in the search box and click "Add Animal" it wi
 When the gifs first load they will all be still images but when you click on each one it will animate. 
 
 Once the gif is animated clicking the gif again will turn it back into a still image.
+
+Link to deployed project: https://shibby220.github.io/GifTastic/
